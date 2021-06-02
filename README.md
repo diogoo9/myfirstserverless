@@ -5,10 +5,11 @@
 - Save bitcion value in dynamoDB
 
 ## About project
-    this project are maked with sam(AWS Serverless Application Model)
+    this project are maked with AWS Serverless Application Model(SAM)
 
 ```bash
+## Comands
+
 sam build
-sam deploy --guided
+sam deploy 
 ```
-# myfirstserverless
